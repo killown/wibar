@@ -1,0 +1,2 @@
+# wibar
+rust panel
